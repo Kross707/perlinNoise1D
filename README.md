@@ -32,4 +32,6 @@ Example usage(opengl and glfw must be configured in your system): -
   }
 
 Screenshots: -
-![Image of Yaktocat](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223332.png)
+![Image1](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223332.png)
+![Image2](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223657.png)
+![Image3](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223809.png)
