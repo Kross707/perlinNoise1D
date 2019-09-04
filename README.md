@@ -16,3 +16,13 @@ It provides a class and member methods: -
 If you do not want to use opengl, just comment/remove the functions/libraries realted to it.
 
 Moreover, this class also provides a bonus function display(std::vector<double>) which prints the passed vector :P .
+  
+Example usage(opengl and glfw must be configured in your system): -
+  #include"perlinNoise.h"
+  
+  int main()
+  {
+    perlinNoise p(160);
+    p.plotArray();
+    return 0;
+  }
