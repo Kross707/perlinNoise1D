@@ -30,3 +30,6 @@ Example usage(opengl and glfw must be configured in your system): -
     p.plotArray();
     return 0;
   }
+
+Screenshots: -
+![Image of Yaktocat](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223332.png)
