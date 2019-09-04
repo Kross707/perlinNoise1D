@@ -1,4 +1,8 @@
 # perlinNoise1D
+
+
+//perlinNoise1D.h is located inside "perlinNoise" folder (in case you want to use it directly rather than using visual studio)
+
 A class for generating perlin noise and returning a vector storing it.
 It provides a class and member methods: -
 
@@ -18,7 +22,7 @@ If you do not want to use opengl, just comment/remove the functions/libraries re
 Moreover, this class also provides a bonus function display(std::vector<double>) which prints the passed vector :P .
   
 Example usage(opengl and glfw must be configured in your system): -
-  #include"perlinNoise.h"
+  #include"perlinNoise1D.h"
   
   int main()
   {
