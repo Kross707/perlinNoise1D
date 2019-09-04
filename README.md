@@ -22,7 +22,8 @@ If you do not want to use opengl, just comment/remove the functions/libraries re
 Moreover, this class also provides a bonus function display(std::vector<double>) which prints the passed vector :P .
   
 Example usage(opengl and glfw must be configured in your system): -
-  #include"perlinNoise1D.h"
+ ```c++
+ #include"perlinNoise1D.h"
   
   int main()
   {
@@ -30,6 +31,7 @@ Example usage(opengl and glfw must be configured in your system): -
     p.plotArray();
     return 0;
   }
+```
 
 Screenshots: -
 ![Image1](https://github.com/Kross707/perlinNoise1D/blob/master/snipNsketch/Annotation%202019-09-04%20223332.png)
