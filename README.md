@@ -11,7 +11,6 @@ It provides a class and member methods: -
   size : represents the size of perlin noise array. If taken small, take as a multiple of 8...
   finalValue : represents the maximum possible value of elements of seed array. By default 2.
   initValue : represents the minimum possible value of elements of seed array. By default 0.
-
   **NOTE : put finalValue first while function calling or runtime error would be thrown.**
 3. accessor function : `std::vector<double> getNoise()`
   returns the perlin noise array(final array). Must call parameterised constructor before this.
